@@ -1,1 +1,1 @@
-This Contains a all Components of LoanCalculator
+This Folder Contains all Components of LoanCalculator
